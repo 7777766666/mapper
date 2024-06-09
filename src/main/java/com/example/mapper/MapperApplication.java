@@ -43,7 +43,7 @@ public class MapperApplication {
 
         B b1 = aMapper.mapFirstElement(arrayA);
 
-        System.err.println(b1.getSomeName() + ", " + b.getSomeDescription());
+        System.err.println(b1.getSomeName() + ", " + b1.getSomeDescription());
 
 
 
